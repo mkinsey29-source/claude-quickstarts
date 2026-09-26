@@ -1,3 +1,5 @@
+@AGENTS.md
+
 # Claude Quickstarts Development Guide
 
 ## Conventions (all quickstarts)
